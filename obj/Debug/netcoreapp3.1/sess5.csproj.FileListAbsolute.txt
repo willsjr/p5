@@ -1,0 +1,13 @@
+C:\Users\Wills Jr\sess5\bin\Debug\netcoreapp3.1\sess5.exe
+C:\Users\Wills Jr\sess5\bin\Debug\netcoreapp3.1\sess5.deps.json
+C:\Users\Wills Jr\sess5\bin\Debug\netcoreapp3.1\sess5.runtimeconfig.json
+C:\Users\Wills Jr\sess5\bin\Debug\netcoreapp3.1\sess5.runtimeconfig.dev.json
+C:\Users\Wills Jr\sess5\bin\Debug\netcoreapp3.1\sess5.dll
+C:\Users\Wills Jr\sess5\bin\Debug\netcoreapp3.1\sess5.pdb
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.csprojAssemblyReference.cache
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.AssemblyInfoInputs.cache
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.AssemblyInfo.cs
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.csproj.CoreCompileInputs.cache
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.dll
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.pdb
+C:\Users\Wills Jr\sess5\obj\Debug\netcoreapp3.1\sess5.genruntimeconfig.cache
